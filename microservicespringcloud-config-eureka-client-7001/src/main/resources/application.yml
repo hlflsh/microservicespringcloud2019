@@ -1,0 +1,3 @@
+spring: 
+  application: 
+    name: microservicespringcloud-config-eureka-client

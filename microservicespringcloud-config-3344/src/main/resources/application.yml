@@ -1,0 +1,11 @@
+server: 
+  port: 3344
+  
+spring: 
+  application: 
+    name: microservicespringcloud-config
+  cloud: 
+    config: 
+      server:
+        git: 
+          uri: https://github.com/hlflsh/microservicespringcloud-config.git    # gitHab仓库名字
